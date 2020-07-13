@@ -1,4 +1,6 @@
 import "typeface-inter"
+import "typeface-montserrat"
+import "typeface-open-sans"
 
 const spacing = {
   "0": "0",
