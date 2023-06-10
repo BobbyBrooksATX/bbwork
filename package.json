@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@reflexjs/gatsby-theme-base": "^0.2.3",
-    "gatsby": "^2.22.11",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-google-analytics": "^2.3.11",
     "gatsby-plugin-google-tagmanager": "^2.3.11",
     "react": "^16.13.1",
